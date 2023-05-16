@@ -1,0 +1,40 @@
+header, footer {
+    border: cornflowerblue;
+    background-color: skyblue;
+}
+
+section {
+    background-color: lightcyan;
+}
+
+body {
+    font-family: Arial;
+}
+
+.italicise-book-title {
+    font-style: italic;
+}
+
+h1 {
+    color: palevioletred
+}
+
+h2 {
+    color: plum
+}
+
+h3 {
+    color: darkcyan
+}
+
+h4 {
+    color: rebeccapurple
+}
+
+nav a:hover {
+    color: rgb(210, 151, 238);
+}
+
+ul {
+    list-style-type: none;
+}
